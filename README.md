@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="/Devicons/COBOL.jpg" height="40" alt="COBOL logo"  />
   <img width="12" />
 </div>
 
