@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="/Devicons/JCL.png" height="40" alt="Job Control Language (JCL) logo"  />
   <img width="12" />
-  <img src="/Devicons/ASW.jpg" height="40" alt="AWS logo"  />
+  <img src="/Devicons/AWS.jpg" height="40" alt="AWS logo"  />
   <img width="12" />
 </div>
 
