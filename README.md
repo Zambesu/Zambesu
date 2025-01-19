@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning T-REXX<br>🎲 Fun fact: Around 80% of all business transactions are still processed using COBOL</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning REXX<br>🎲 Fun fact: Around 80% of all business transactions are still processed using COBOL</p>
 
 ###
 
@@ -28,6 +28,8 @@
   <img src="/Devicons/JCL.png" height="40" alt="Job Control Language (JCL) logo"  />
   <img width="12" />
   <img src="/Devicons/AWS.jpg" height="40" alt="AWS logo"  />
+  <img width="12" />
+  <img src="/Devicons/REXX.png" height="40" alt="REXX logo"  />
   <img width="12" />
 </div>
 
