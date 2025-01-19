@@ -22,6 +22,7 @@
   <a href="https://www.exemplo.com">
   <img src="/Devicons/COBOL.jpg" height="40" alt="COBOL logo"  />
   <img width="12" />
+  </a>
   <img src="/Devicons/JCL.png" height="40" alt="Job Control Language (JCL) logo"  />
   <img width="12" />
   <img src="/Devicons/DB2.png" height="40" alt="IBM DB2 logo"  />
