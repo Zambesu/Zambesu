@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mateus and I'm a Mainframe Developer, from Brazil</p>
+<p align="left">My name is Mateus and I'm a Mainframe Developer from Brazil 🇧🇷</p>
 
 ###
 
