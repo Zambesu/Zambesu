@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning REXX<br>🎲 Fun fact: Around 80% of all business transactions are still processed using COBOL</p>
+<p align="left">✨ Creating bugs since: 2023<br>📚 I'm currently learning: REXX<br>🎲 Fun fact: Around 80% of all business transactions are still processed using COBOL</p>
 
 ###
 
