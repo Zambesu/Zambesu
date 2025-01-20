@@ -20,7 +20,7 @@
 
 <div align="left">
   <a href="https://en.wikipedia.org/wiki/COBOL">
-    <img src="/Devicons/COBOL.jpg" height="40" alt="COBOL logo" width="12"/>
+    <img src="/Devicons/COBOL.jpg" height="40" alt="COBOL logo" style="width:12"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Job_Control_Language">
     <img src="/Devicons/JCL.png" height="40" alt="Job Control Language (JCL) logo"  />
